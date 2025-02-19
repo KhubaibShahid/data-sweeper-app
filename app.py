@@ -8,7 +8,7 @@ from io import BytesIO
 st.set_page_config(page_title="Data Convertor", layout="wide")
 
 # title
-st.title("Data Convertor")
+st.title("Data Sweep")
 
 # heading
 st.write("## transform your files between CSV and Excel formats with built-in data cleaning and visualization")
