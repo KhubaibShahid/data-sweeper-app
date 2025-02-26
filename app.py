@@ -5,7 +5,7 @@ import os
 from io import BytesIO
 
 # page 
-st.set_page_config(page_title="Data Convertor", layout="wide")
+st.set_page_config(page_title="Data Sweep", layout="wide")
 
 # title
 st.title("Data Sweep")
